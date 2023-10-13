@@ -1,10 +1,8 @@
 #Print Heading and explanation
 print()
-print("===================")
-
-print("Welcome to the UMBC")
-
-print("===================")
+print("    ======================")
+print("Welcome to the Custom Car Center")
+print("    =======================")
 print()
 #Instructions to user
 print("Below please enter the letter of the selection you're looking for ")
